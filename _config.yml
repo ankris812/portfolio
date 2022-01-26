@@ -1,0 +1,19 @@
+# Base configs
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Portfolio by Zeus"
+subtitle: 
+author:  "Zeus Ricote"
+header:
+ title: "Portfolio"
+ subtitle: "by Zeus"
+footer:
+ name: 
+ bio: 
+social_urls:
+  twitter: "https://twitter.com/Zeus64458337"
+  instagram: "https://www.instagram.com/zeusricote"
+  linkedin:
+  github: "https://github.com/ankris812"
